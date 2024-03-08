@@ -1,5 +1,9 @@
-# 💫 About Me:
-## A passionate Full Stack Developer in the making!<br>Journey through the coding world has no end, Updating Skill Every Moment.<br>Living through the code WORLD!<br><br>Here's What I Am Using:<br> <br>○ languages: C, C++, Python, R, HTML, CSS, JavaScript<br>○ Frameworks: React.js, Node.js, Express.js(learning)<br>○ Databases: MongoDB, MySQL<br>○ Tools: Git, VS Code, PyCharm, RStudio<br>
+# 💫 Hello, I'm Karthik Unnikrishnan:
+
+## Want To Know More About Me 😉:
+## I'm passionate Full Stack Developer in the making!<br>Journey through the coding world has no end, Updating Skill Every Moment.<br>Living through the code WORLD!<br>I'm Also A Film Maker 🎥<br>
+
+## Here's What I Am Using:<br> <br>○ languages: C, C++, Python, R, HTML, CSS, JavaScript<br>○ Frameworks: React.js, Node.js, Express.js(learning)<br>○ Databases: MongoDB, MySQL<br>○ Tools: Git, VS Code, PyCharm, RStudio<br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,r,js,html,css&perline=4)](https://skillicons.dev)
 
