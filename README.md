@@ -9,8 +9,3 @@
 
 ### 🌐 Connect Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/karthikunnikrishnanpage) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthik_unnikrishnan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-unnikrishnan-29867720b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Karthik_Film) 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthikunnikrishnan&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karthikunnikrishnan&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikunnikrishnan&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
