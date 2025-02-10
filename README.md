@@ -1,9 +1,9 @@
 # 💫 Hello, I'm Karthik Unnikrishnan:
 
 ## Want To Know More About Me 😉:
-## I'm passionate Full Stack Developer in the making!<br>Journey through the coding world has no end, Updating Skill Every Moment.<br>Living through the code WORLD!<br>I'm Also A Film Maker 🎥<br>
+## I'm a passionate Full Stack Developer in the making!<br>Journey through the coding world has no end, Updating Skill Every Moment.<br>Living through the code WORLD!<br>I'm Also A Film Maker 🎥<br>
 
-## Here's What I Am Using:<br> <br>○ languages: C, C++, Python, R, HTML, CSS, JavaScript<br>○ Frameworks: React.js(learning), Node.js(learning), Express.js(learning)<br>○ Databases: PostgreSQL, MySQL<br>○ Tools: Git, VS Code, PyCharm, RStudio<br>
+## Here's What I Am Using:<br> <br>○ languages: C, C++, Python, R, HTML, CSS, JavaScript<br>○ Frameworks: Django, Node.js(learning)<br>○ Databases: PostgreSQL, MySQL<br>○ Tools: Git, VS Code, PyCharm, RStudio<br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,r,js,html,css,git&perline=4)](https://skillicons.dev)
 
